@@ -1,0 +1,21 @@
+{
+  "path" : "dynamics",
+  "pages" : 
+      [
+        {
+          "name" : "Intro to Dynamics",
+          "site_name" : "intro",
+          "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-1.pdf"
+        },
+        {
+          "name" : "Second Chapter",
+          "site_name" : "second",
+          "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-1.pdf"
+        },
+        {
+          "name" : "Third Chapter",
+          "site_name" : "third",
+          "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-1.pdf"
+        }
+      ]
+}

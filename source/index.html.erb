@@ -3,8 +3,10 @@ title: Welcome to Middleman
 ---
 
 <div class="welcome">
-  <h1>Middleman is Watching</h1>
-  <p class="doc">
-    <%= link_to "Read Online Documentation", "http://middlemanapp.com/" %>
-  </p><!-- .doc -->
+  <h1>NJCTL Dynamics Presentations</h1>
+    <ul id="navigation">
+      <% data.dynamics.pages.each do |chapter| %>
+        <li><a href="<%= chapter.site_link %>"><%= chapter.name %></a></li>
+    <% end %>
+    </ul>
 </div><!-- .welcome -->
