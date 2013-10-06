@@ -3,19 +3,54 @@
   "pages" : 
       [
         {
-          "name" : "Intro to Dynamics",
+          "name" : "Dynamics Thought Experiment",
           "site_name" : "intro",
           "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-1.pdf"
         },
         {
-          "name" : "Second Chapter",
-          "site_name" : "second",
-          "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-1.pdf"
+          "name" : "Newton's 1st Law",
+          "site_name" : "newtons-first-law",
+          "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-2.pdf"
         },
         {
-          "name" : "Third Chapter",
-          "site_name" : "third",
-          "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-1.pdf"
+          "name" : "Newton's Second Law",
+          "site_name" : "newtons-second-law",
+          "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-3.pdf"
+        },
+        {
+          "name" : "Net Force",
+          "site_name" : "net-force",
+          "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-4.pdf"
         }
+        {
+          "name" : "Mass, Weight and Normal Force",
+          "site_name" : "mass-weight-normal-force",
+          "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-5.pdf"
+        },
+        {
+          "name" : "Newton's Third Law",
+          "site_name" : "newtons-third-law",
+          "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-6.pdf"
+        },
+        {
+          "name" : "Free Body Diagrams",
+          "site_name" : "free-body-diagrams",
+          "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-7.pdf"
+        },
+        {
+          "name" : "Friction",
+          "site_name" : "friction",
+          "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-8.pdf"
+        },
+        {
+          "name" : "Tension",
+          "site_name" : "tension",
+          "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-9.pdf"
+        },
+        {
+          "name" : "General Problems",
+          "site_name" : "general-problems",
+          "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-10.pdf"
+        },
       ]
 }
