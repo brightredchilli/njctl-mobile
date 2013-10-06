@@ -21,7 +21,7 @@
           "name" : "Net Force",
           "site_name" : "net-force",
           "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-4.pdf"
-        }
+        },
         {
           "name" : "Mass, Weight and Normal Force",
           "site_name" : "mass-weight-normal-force",
@@ -51,6 +51,6 @@
           "name" : "General Problems",
           "site_name" : "general-problems",
           "site_link" : "https://dl.dropboxusercontent.com/u/3002073/NJCTL%20Dynamics/Dynamics-10.pdf"
-        },
+        }
       ]
 }

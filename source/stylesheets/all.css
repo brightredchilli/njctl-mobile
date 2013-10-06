@@ -11,7 +11,7 @@ h1 {
   font-size: 32px;
   letter-spacing: -1px;
   text-transform: uppercase;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, .5);
+  /* text-shadow: 0 1px 0 rgba(255, 255, 255, .5); */
   /* padding: 350px 0 10px; */
   margin: 0; }
 
@@ -19,13 +19,20 @@ h1 {
   height: 44px;
   list-style-type: none;
   border-bottom: 1px solid #ddd;
+  text-color: #333;
 }
 
 
 #navigation li a {
-  text-decoration: none;
   line-height: 44px;
   font-size: 20px;
+}
+#navigation li a:link {
+  color: #333;
+}
+
+#navigation li a:visited {
+  color: #777;
 }
 
 .doc {
